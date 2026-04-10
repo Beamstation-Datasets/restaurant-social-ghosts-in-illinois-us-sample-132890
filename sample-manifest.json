@@ -1,0 +1,12 @@
+{
+  "export_job_id": "489ebeda-1a81-4acc-9efe-9dbdf0e1a652",
+  "id_short": 132890,
+  "published_at": "2026-04-10T19:12:27Z",
+  "repo_name": "restaurant-social-ghosts-in-illinois-us-sample-132890",
+  "sample_asset_name": "beamstation_132890_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/132890/beamstation_132890_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_records": 46,
+  "sample_sha256": "44cff47b93d13185f86fc12b67b2df68e857bbecad8fef240d1f78b418e6d011",
+  "sample_size_bytes": 176574,
+  "total_records": 464
+}
