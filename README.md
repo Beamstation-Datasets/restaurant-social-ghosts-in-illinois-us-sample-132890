@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Illinois, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `132890` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 109 records |
-| Free sample size | 10 records (9.17%) |
-| Last export | 2026-04-22T19:04:12.186564+00:00 |
+| Full dataset size | 95 records |
+| Free sample size | 9 records (9.47%) |
+| Last export | 2026-04-29T18:16:32.398732+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-illinois-us-sample-132890/releases/download/sample-latest/beamstation_132890_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
